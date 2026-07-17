@@ -32,7 +32,7 @@ const nehaAutade = {
   launchedProjects: [
     "VisionaryAI — Voice-Driven Web Accessibility Tool"
   ],
-  certifications: [], // add yours here
+  
   status: "Fresher, actively building projects",
   openTo: "Open to work opportunities as an IT Engineer / Full Stack Developer"
 };
